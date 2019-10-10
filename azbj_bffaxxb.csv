@@ -1,0 +1,9 @@
+数据元名称,标识,类型
+安置帮教人员编号,AZBJRYBH,ID
+帮教方案名称,BJJZFAMC,C50
+帮教类别,BJJZLB,C2
+帮教期限,BJQX,C20
+帮教开始日期,BJJZKSRQ,D
+帮教结束日期,BJJZJSRQ,D
+帮教机构,BJJZJG,C50
+帮教决定机关,BJSQJZJDJG,C50
