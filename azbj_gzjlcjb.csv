@@ -1,0 +1,13 @@
+数据元名称,标识,类型
+安置帮教人员编号,AZBJRYBH,ID
+现实表现,XSBX,TN
+工作情况,GZQK,TN
+经济情况,JJQK,TN
+家庭情况,JTQK,TN
+活动场所,HDCS,TN
+社会交往,SHJW,TN
+困难和问题,KNHWT,C100
+备注,BZH,C100
+责任区民警,ZRQMJ,C50
+时间,SJ,D
+地点,DD,C200
