@@ -1,14 +1,10 @@
-CREATE TABLE azbj_gzjlcjb (
+CREATE TABLE azbj_gzxxb (
 azbjrybh  varchar(20)  PRIMARY KEY  NOT NULL  COMMENT  '安置帮教人员编号',
 xsbx  tinyint  COMMENT  '现实表现',
 gzqk  tinyint  COMMENT  '工作情况',
 jjqk  tinyint  COMMENT  '经济情况',
-jtqk  tinyint  COMMENT  '家庭情况',
-hdcs  tinyint  COMMENT  '活动场所',
-shjw  tinyint  COMMENT  '社会交往',
-knhwt  varchar(100)  COMMENT  '困难和问题',
 bzh  varchar(100)  COMMENT  '备注',
 zrqmj  varchar(50)  COMMENT  '责任区民警',
 sj  date  COMMENT  '时间',
 dd  varchar(200)  COMMENT  '地点'
-) COMMENT = '工作记录采集表'
+) COMMENT = '管制信息表'
